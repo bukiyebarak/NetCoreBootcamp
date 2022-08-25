@@ -1,0 +1,12 @@
+C:\Users\BÜKİYE\Source\Repos\TodebProje\BackgroundJobs\bin\Debug\net5.0\BackgroundJobs.deps.json
+C:\Users\BÜKİYE\Source\Repos\TodebProje\BackgroundJobs\bin\Debug\net5.0\BackgroundJobs.dll
+C:\Users\BÜKİYE\Source\Repos\TodebProje\BackgroundJobs\bin\Debug\net5.0\ref\BackgroundJobs.dll
+C:\Users\BÜKİYE\Source\Repos\TodebProje\BackgroundJobs\bin\Debug\net5.0\BackgroundJobs.pdb
+C:\Users\BÜKİYE\Source\Repos\TodebProje\BackgroundJobs\obj\Debug\net5.0\BackgroundJobs.csproj.AssemblyReference.cache
+C:\Users\BÜKİYE\Source\Repos\TodebProje\BackgroundJobs\obj\Debug\net5.0\BackgroundJobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BÜKİYE\Source\Repos\TodebProje\BackgroundJobs\obj\Debug\net5.0\BackgroundJobs.AssemblyInfoInputs.cache
+C:\Users\BÜKİYE\Source\Repos\TodebProje\BackgroundJobs\obj\Debug\net5.0\BackgroundJobs.AssemblyInfo.cs
+C:\Users\BÜKİYE\Source\Repos\TodebProje\BackgroundJobs\obj\Debug\net5.0\BackgroundJobs.csproj.CoreCompileInputs.cache
+C:\Users\BÜKİYE\Source\Repos\TodebProje\BackgroundJobs\obj\Debug\net5.0\BackgroundJobs.dll
+C:\Users\BÜKİYE\Source\Repos\TodebProje\BackgroundJobs\obj\Debug\net5.0\ref\BackgroundJobs.dll
+C:\Users\BÜKİYE\Source\Repos\TodebProje\BackgroundJobs\obj\Debug\net5.0\BackgroundJobs.pdb
